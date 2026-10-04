@@ -370,7 +370,7 @@ plot(L, . - r ~ r,
 
 
 env <- envelope(pp_u, Lest, 
-                nsim = 19, 
+                nsim = 99, 
                 correction = "isotropic",
                 global = TRUE, 
                 verbose = FALSE)
